@@ -1,2 +1,3 @@
 # CursoFCII-2020-1
-Fisica Computacional 2 UdeA 
+
+Repositorio con códigos e información acerca de la materia  Física Computacional 2 en el instituto de física de la UdeA 
