@@ -14,6 +14,21 @@ opt: output option:
   opt = 1: print to file Sum_n1n2.dat
 */
 
+/*
+Programación orientada a objetos: Paradigma de programación que permite
+que la escritura y ejecución de programas sea más modular, donde los 
+objetos son estructuras que pueden estar compuestas de varias propiedades
+que en la ejecución del programa son manipuladas sin crear una cantidad
+excesiva de variables.
+
+Clases: Análogo a lo que en C normal es una estructura; tipo de "variable"
+que puede ser definida por el usuario, conteniendo propiedades y variables
+internas que luego se pueden manipular.
+
+Uso en C++: Programas modulares, más legibles, y posibilidad de crear
+estructuras más complejas.
+*/
+
 #include <iostream>
 #include <fstream>
 
