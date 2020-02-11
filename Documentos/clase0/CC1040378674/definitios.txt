@@ -1,0 +1,8 @@
+POO def: La programación orientada a objetos es aquella en la que se hace una
+	abstracción del problema planteandolo en terminos de objetos(bien definidos, es decir,
+	poseen atributos y metodos que especifican como interactuan con otros objetos) con los
+	y se resuelve el problema en terminos de como estos interactun entre si.
+
+Clase def:
+
+uso:
